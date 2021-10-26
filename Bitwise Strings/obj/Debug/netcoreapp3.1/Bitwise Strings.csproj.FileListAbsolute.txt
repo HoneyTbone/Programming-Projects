@@ -1,0 +1,14 @@
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\bin\Debug\netcoreapp3.1\Bitwise Strings.exe
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\bin\Debug\netcoreapp3.1\Bitwise Strings.deps.json
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\bin\Debug\netcoreapp3.1\Bitwise Strings.runtimeconfig.json
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\bin\Debug\netcoreapp3.1\Bitwise Strings.runtimeconfig.dev.json
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\bin\Debug\netcoreapp3.1\Bitwise Strings.dll
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\bin\Debug\netcoreapp3.1\Bitwise Strings.pdb
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.csproj.AssemblyReference.cache
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.AssemblyInfoInputs.cache
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.AssemblyInfo.cs
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.csproj.CoreCompileInputs.cache
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.dll
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.pdb
+C:\Users\Tyson Toller\source\repos\Bitwise Strings\Bitwise Strings\obj\Debug\netcoreapp3.1\Bitwise Strings.genruntimeconfig.cache
